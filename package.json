@@ -1,0 +1,25 @@
+{
+  "name": "campusconnect",
+  "version": "1.0.0",
+  "description": "CampusConnect – Student Club Management REST API | Midterm Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "expressjs",
+    "rest-api",
+    "student-club",
+    "campus-connect",
+    "nodejs"
+  ],
+  "author": "Mubarak Atheeb – 20250040223 – Nusa Putra University",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
